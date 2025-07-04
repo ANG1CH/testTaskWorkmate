@@ -4,7 +4,7 @@
 
 ## Пример работы
 
-![Пример работы](c:/Users/avdon/AppData/Local/Packages/MicrosoftWindows.Client.CBS_cw5n1h2txyewy/TempState/ScreenClip/{D1A0A246-72E9-4406-9C50-D6AA137680E4}.png)
+![Пример работы]("testTaskWorkmate\csv_tool\testScrin\image.png" )
 
 ## Запуск
 
