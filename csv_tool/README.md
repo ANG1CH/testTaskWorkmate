@@ -4,7 +4,7 @@
 
 ## Пример работы
 
-![Пример работы](testTaskWorkmate\csv_tool\testScrin\image.png )
+![Пример работы](csv_tool/testScrin/image.png)
 
 ## Запуск
 
